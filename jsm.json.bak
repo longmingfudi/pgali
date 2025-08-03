@@ -176,7 +176,7 @@
 			{"key":"FourKZN","name":"☁原盘┃4K","type":3,"api":"csp_FourKZN","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://xuexizhinan.com/$$$noproxy$$$1$$$./lib/4kzn.txt$$$4KZN"},
 {
             "key": "小斑",
-            "name": "☁️小斑┃网盘",
+            "name": "小斑┃网盘",
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
