@@ -3,7 +3,19 @@
 	"logo": "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/giteeai.png",
 	"sites":[
 		 {"key":"Wogg","name":"☁️玩偶┃4K","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://www.wogg.lol/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"},
-		
+		{
+    "key" : "mog",
+    "name" : "☁️木偶┃T4",
+    "type" : 4,
+    "api" : "https://bpby.banye.tech:7777/video/mogg",
+    "searchable" : 1,
+    "quickSearch" : 1,
+    "changeable" : 0,
+    "header" : {
+      "token" : "8eb57d84541f6e66"
+    }
+  },
+
 		{
       "key": "百度趣盘",
       "name": "☁️度趣┃4K",
@@ -56,26 +68,28 @@
 {
 			"key": "至臻|网盘",
 			"name": "☁至臻┃4K",
-			"type": 3,
-			"api": "csp_Wobg",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$ZHIZHEN"
+			 "type" : 4,
+    "api" : "https://bpby.banye.tech:7777/video/zhizhen",
+    "searchable" : 1,
+    "quickSearch" : 1,
+    "changeable" : 0,
+    "header" : {
+      "token" : "8eb57d84541f6e66"
+    }
 		},
 			      
 {
-      "key": "闪电",
-      "name": "☁️闪电┃4K",
-      "type": 3,
-      "api": "csp_ShanDianGuard",
-      "jar": "./jars/ok.jar",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 25
-    },
+    "key" : "shandian",
+    "name" : "☁️闪电┃4K",
+    "type" : 4,
+    "api" : "https://bpby.banye.tech:7777/video/shandian",
+    "searchable" : 1,
+    "quickSearch" : 1,
+    "changeable" : 0,
+    "header" : {
+      "token" : "8eb57d84541f6e66"
+    }
+  },
 
 {
       "key": "虎斑",
@@ -102,7 +116,6 @@
 				"ratio": 1.1
 			}
 		},
-	
             
     {
       "key": "123分享",
@@ -119,7 +132,7 @@
     },
             {
             "key": "csp_Ikanbot",
-            "name": "爱看┃Ikanbot",
+            "name": "采集┃Ikanbot",
 			 "jar": "./jars/ok.jar",
             "type": 3,
             "api": "csp_IkanbotGuard",
@@ -128,19 +141,10 @@
             "filterable": 1
         },
             
-                    {
-            "key": "auf",
-            "name": "泥视频┃1080P",
-            "type": 3,
-            "api": "./py/泥视频.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
+                    
 	{
             "key": "nsp",
-            "name": "壹帆┃1080P",
+            "name": "采集┃壹帆",
             "type": 3,
             "api": "./py/爱壹帆.py",
             "searchable": 1,
@@ -150,7 +154,7 @@
         },
         {
             "key": "contv",
-            "name": "CNOTV┃1080P",
+            "name": "采集┃CONTV",
             "type": 3,
             "api": "./py/cnotv.py",
             "searchable": 1,
@@ -160,7 +164,7 @@
         },
 {
             "key": "魔爪",
-            "name": "魔爪┃1080P",
+            "name": "采集┃魔爪",
             "type": 1,
             "api": "https://mozhuazy.com/api.php/provide/vod/",
             "playerType": 2,
@@ -172,21 +176,11 @@
    "style": {"type": "rect","ratio": 0.75}
             
         },
-                {
-            "key": "ldys",
-            "name": "零度┃1080P",
-            "type": 3,
-            "api": "./py/零度.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-       
+                
 
 		{
             "key": "小苹果APP.py",
-            "name": "苹果┃1080P",
+            "name": "采集┃苹果",
             "type": 3,
             "api": "./py/小苹果APP.py",
             "searchable": 1,
@@ -196,7 +190,7 @@
         },
     {
         "key": "4KAV.py",
-        "name": "4K┃AV",
+        "name": "采集┃AV",
         "type": 3,
         "api": "./py/4KAV.py",
         "searchable": 1,
@@ -207,29 +201,10 @@
             "site": "https://4k-av.com"
         }
     },
-        {
-      "key": "csp_New6v",
-      "name": "🧲┃新6V",
-      "type": 3,
-      "api": "csp_Xb6vGuard",
-       "jar": "./jars/ok.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-        {  
-       "key": "4K4K",
-       "name": "剧院┃1080P",
-       "type": 3,
-       "api": "./api/drpy2.min.js",                "searchable": 1,
-       "quickSearch": 1,
-        "changeable": 1,
-       "filterable": 1,
-       "ext": "./js/4K4K.js"},
-
+        
 	 {
       "key": "瓜子",
-      "name": "瓜子┃App",
+      "name": "采集┃瓜子",
       "type": 3,
       "api": "csp_GuaziGuard",
       "jar": "./jars/ok.jar",
@@ -247,7 +222,7 @@
 		},
 	{
       "key": "SeedHub",
-      "name": "☁️Seed┃hub",
+      "name": "🍀Seed┃hub",
       "type": 3,
       "api": "csp_SeedHubGuard",
       "quickSearch": 1,
@@ -318,7 +293,30 @@
                   "jar": "./jars/ok.jar",
             "timeout": 25
         },
-
+{
+    "key" : "tianyiyunpan",
+    "name" : "💓天翼┃搜索",
+    "type" : 4,
+    "api" : "https://bpby.banye.tech:7777/video/tianyiyunpan",
+    "searchable" : 1,
+    "quickSearch" : 1,
+    "changeable" : 0,
+    "header" : {
+      "token" : "8eb57d84541f6e66"
+    }
+  },
+  {
+    "key" : "leoziyuan",
+    "name" : "💓LEO┃搜索",
+    "type" : 4,
+    "api" : "https://bpby.banye.tech:7777/video/leoziyuan",
+    "searchable" : 1,
+    "quickSearch" : 1,
+    "changeable" : 0,
+    "header" : {
+      "token" : "8eb57d84541f6e66"
+    }
+  }, 
     {
       "key": "爱盘",
       "name": "💓爱盘┃搜索",
@@ -385,12 +383,10 @@
 		{"key":"WebDAV","name":"WebDAV","type":3,"api":"csp_WebDAV","searchable":1,"filterable":1,"changeable":1,"timeout":60,
 			"playerType": 2,
 			"ext":"./lib/webdav.json"},
-	{"key":"AList","name":"Alist","type":3,"api":"csp_AList","searchable":1,"filterable":1,"changeable":1,"timeout":60,
-			"playerType": 2,
-			"ext":"./lib/alistjar.json"},
+
 			{  
        "key": "emby",
-       "name": "Emby┃4K",
+       "name": "💻Emby┃4K",
        "type": 3,
        "api": "./api/drpy2.min.js",                "searchable": 1,
        "quickSearch": 1,
@@ -552,6 +548,24 @@
                   "https": "http://127.0.0.1:10172"
           }
     },
+      {
+            "key": "Missav",
+            "name": "🔞Missav",
+            "type": 3,
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "api": "./py/Miss.py",
+            "ext": {
+                "site": "https://missav.ai",
+                "cfgo":"./lib/cf-proxy-linux-arm64",
+                "plp": "",
+                "proxy": {
+                    "http": "http://127.0.0.1:10172",
+                    "https": "http://127.0.0.1:10172"
+                }
+            }
+        },
     {
       "key": "py_AiDou",
       "name": "🔞AiDou(T4)",
