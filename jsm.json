@@ -77,19 +77,6 @@
       "token" : "8eb57d84541f6e66"
     }
 		},
-			      
-{
-    "key" : "shandian",
-    "name" : "☁️闪电┃4K",
-    "type" : 4,
-    "api" : "https://bpby.banye.tech:7777/video/shandian",
-    "searchable" : 1,
-    "quickSearch" : 1,
-    "changeable" : 0,
-    "header" : {
-      "token" : "8eb57d84541f6e66"
-    }
-  },
 
 {
       "key": "虎斑",
@@ -176,7 +163,16 @@
    "style": {"type": "rect","ratio": 0.75}
             
         },
-                
+{
+  "key": "py_jieyingshi",
+  "name": "采集┃无界",
+  "type": 3,
+  "api": "https://d.kstore.dev/download/14756/python/vod_jieyingshi.py",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 0,
+  "changeable": 0
+},
 
 		{
             "key": "小苹果APP.py",
@@ -661,8 +657,8 @@
 			{
 				"name": "FeiYang牧场",
 				"type": 0,
-				"url": "https://gh-proxy.com/https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/iptv.m3u",
-				"ua": "okhttp/3.15",
+				"url": "http://sub.ottiptv.cc/iptv.m3u",
+				"ua": "okHttp/Mod-1.0.0",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE1SUB",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
 				"catchup": {
