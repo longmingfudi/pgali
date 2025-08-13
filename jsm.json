@@ -117,38 +117,7 @@
       
       "timeout": 25
     },
-            {
-            "key": "csp_Ikanbot",
-            "name": "采集┃Ikanbot",
-			 "jar": "./jars/ok.jar",
-            "type": 3,
-            "api": "csp_IkanbotGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-            
-                    
-	{
-            "key": "nsp",
-            "name": "采集┃壹帆",
-            "type": 3,
-            "api": "./py/爱壹帆.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "contv",
-            "name": "采集┃CONTV",
-            "type": 3,
-            "api": "./py/cnotv.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
+           
 {
             "key": "魔爪",
             "name": "采集┃魔爪",
@@ -163,52 +132,8 @@
    "style": {"type": "rect","ratio": 0.75}
             
         },
-{
-  "key": "py_jieyingshi",
-  "name": "采集┃无界",
-  "type": 3,
-  "api": "https://d.kstore.dev/download/14756/python/vod_jieyingshi.py",
-  "searchable": 1,
-  "quickSearch": 0,
-  "filterable": 0,
-  "changeable": 0
-},
 
-		{
-            "key": "小苹果APP.py",
-            "name": "采集┃苹果",
-            "type": 3,
-            "api": "./py/小苹果APP.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-    {
-        "key": "4KAV.py",
-        "name": "采集┃AV",
-        "type": 3,
-        "api": "./py/4KAV.py",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "changeable": 1,
-        "ext": {
-            "site": "https://4k-av.com"
-        }
-    },
-        
-	 {
-      "key": "瓜子",
-      "name": "采集┃瓜子",
-      "type": 3,
-      "api": "csp_GuaziGuard",
-      "jar": "./jars/ok.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
+		
 		
 		{"key":"混合盘","name":"💓混合┃搜索","type":3,"api":"csp_HunHePan","timeout":60, "ext":"./lib/tokenm.json",
 			"style": {
