@@ -53,18 +53,7 @@
       {"key":"csp_Wobg_小二网盘","name":"☁小二┃4K","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://erxiaofn.click/$$$cfg$$$1$$$./lib/wogg.json$$$ERXIAO"},
 {"key":"yyds","name":"☁多多┃4K","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$noproxy$$$1$$$./lib/wogg.json"},
 {"key":"csp_Moli","name":"☁魔力┃4K","type":3,"api":"csp_Moli","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext": "./lib/tokenm.json$$$https://www.hdmoli.pro/$$$cfg$$$1$$$./lib/moli.json"},
-{
-			"key": "至臻|网盘",
-			"name": "☁至臻┃4K",
-			 "type" : 4,
-    "api" : "https://bpby.banye.tech:7777/video/zhizhen",
-    "searchable" : 1,
-    "quickSearch" : 1,
-    "changeable" : 0,
-    "header" : {
-      "token" : "8eb57d84541f6e66"
-    }
-		},
+
 
 {
       "key": "虎斑",
