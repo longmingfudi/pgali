@@ -3,19 +3,7 @@
 	"logo": "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/giteeai.png",
 	"sites":[
 		 {"key":"Wogg","name":"☁️玩偶┃4K","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://www.wogg.lol/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"},
-		{
-    "key" : "mog",
-    "name" : "☁️木偶┃T4",
-    "type" : 4,
-    "api" : "https://bpby.banye.tech:7777/video/mogg",
-    "searchable" : 1,
-    "quickSearch" : 1,
-    "changeable" : 0,
-    "header" : {
-      "token" : "8eb57d84541f6e66"
-    }
-  },
-
+		
 		{
       "key": "百度趣盘",
       "name": "☁️度趣┃4K",
@@ -214,30 +202,7 @@
                   "jar": "./jars/ok.jar",
             "timeout": 25
         },
-{
-    "key" : "tianyiyunpan",
-    "name" : "💓天翼┃搜索",
-    "type" : 4,
-    "api" : "https://bpby.banye.tech:7777/video/tianyiyunpan",
-    "searchable" : 1,
-    "quickSearch" : 1,
-    "changeable" : 0,
-    "header" : {
-      "token" : "8eb57d84541f6e66"
-    }
-  },
-  {
-    "key" : "leoziyuan",
-    "name" : "💓LEO┃搜索",
-    "type" : 4,
-    "api" : "https://bpby.banye.tech:7777/video/leoziyuan",
-    "searchable" : 1,
-    "quickSearch" : 1,
-    "changeable" : 0,
-    "header" : {
-      "token" : "8eb57d84541f6e66"
-    }
-  }, 
+
     {
       "key": "爱盘",
       "name": "💓爱盘┃搜索",
