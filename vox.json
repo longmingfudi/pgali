@@ -2,7 +2,7 @@
   "spider": "./jars/vox.jar;md5;0b2ba18925f2af7ba6a85dca889f9b5e",
   "README": "./ext/README.txt",
   "README2": "./ext/README2.txt",
-  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+ "wallpaper": "https://blur.zntv.dpdns.org",
   "lives": [
     {
       "name": "📡虎牙",
