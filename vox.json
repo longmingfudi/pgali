@@ -304,6 +304,12 @@
       "timeout": 60,
       "api": "./ext/夸克影院.js"
     },
+     {
+      "key" : "爱看机器人",
+      "name" : "🚒爱看┃（羊）",
+      "type" : 3,
+      "api" : "./ext/爱看机器人.js"
+    },
     {
       "key": "cat_HDmoli",
       "name": "⛵HDmoli┃影院",
