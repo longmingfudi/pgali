@@ -1,7 +1,8 @@
 {
   "spider": "./jars/vox.jar",
+  "logo": "https://14932.kstore.space/9.png",
   "README": "./ext/README.txt",
-   "logo": "./https://14932.kstore.space/9.png",
+  
   "README2": "./ext/README2.txt",
  "wallpaper": "https://blur.zntv.dpdns.org",
   "lives": [
