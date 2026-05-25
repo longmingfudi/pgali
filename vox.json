@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/vox.jar",
+  "spider": "./jars/vox.jar",
   "README": "./ext/README.txt",
   "README2": "./ext/README2.txt",
  "wallpaper": "https://blur.zntv.dpdns.org",
