@@ -306,6 +306,14 @@
       "api": "./ext/夸克影院.js"
     },
      {
+      "key": "闪影BOX",
+      "name": "🤯臻享┃APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchTop": true,
+      "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
+    },
+     {
       "key" : "爱看机器人",
       "name" : "🚒爱看┃（羊）",
       "type" : 3,
