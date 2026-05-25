@@ -1,6 +1,7 @@
 {
   "spider": "./jars/vox.jar",
   "README": "./ext/README.txt",
+   "logo": "./logo.png",
   "README2": "./ext/README2.txt",
  "wallpaper": "https://blur.zntv.dpdns.org",
   "lives": [
