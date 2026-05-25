@@ -331,7 +331,7 @@
       "key" : "电影港",
       "name" : "⛴️港湾┃电影",
       "type" : 3,
-      "api" : "./js/drpy2.min.js",
+      "api" : "./ext/drpy2.min.js",
       "ext" : "./ext/电影港.js"
     },
      {
