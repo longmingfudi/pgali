@@ -126,9 +126,9 @@
         "proxy": "noproxy"
       }
     },
-    {
+   {
       "key" : "csp_XinTiao",
-      "name" : "心跳┃4K",
+      "name" : "🚴心跳┃4K",
       "type" : 3,
       "timeout" : 60,
       "api" : "csp_XinTiao",
@@ -137,7 +137,7 @@
     },
     {
       "key" : "csp_QiWei",
-      "name" : "七味┃4K",
+      "name" : "🏇七味┃4K",
       "type" : 3,
       "timeout" : 60,
       "api" : "csp_QiWei",
