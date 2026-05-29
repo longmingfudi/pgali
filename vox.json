@@ -44,12 +44,12 @@
       }
     },
    
-     {
-  "key": "ibvio",
-  "name": "Libvio",
+    {
+  "key": "Nostr",
+  "name": "Nostr推荐",
   "type": 3,
   "api": "csp_Nostr",
-  "homePage": "https://14932.kstore.space/libvio.html"
+  "homePage": "https://14932.kstore.space/demo.html"
 },
     {
       "key": "missav",
