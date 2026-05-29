@@ -51,6 +51,13 @@
   "homePage": "https://www.252035.xyz/xs/tvbox/nostr.html"
 },
     {
+      "key": "missav",
+      "name": "missav",
+      "type": 3,
+      "api": "csp_missav",
+      "homePage": "https://gh-proxy.com/https://raw.githubusercontent.com/longmingfudi/voxlinepg/refs/heads/main/missav.html"
+    },
+    {
       "key": "csp_Config",
       "name": "😊配置┃中心",
       "type": 3,
