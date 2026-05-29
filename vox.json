@@ -50,6 +50,13 @@
   "api": "csp_Nostr",
   "homePage": "https://14932.kstore.space/demo.html"
 },
+     {
+  "key": "Nostr",
+  "name": "Libvio",
+  "type": 3,
+  "api": "csp_Nostr",
+  "homePage": "https://14932.kstore.space/libvio.html"
+},
     {
       "key": "missav",
       "name": "missav",
