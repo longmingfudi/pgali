@@ -55,7 +55,7 @@
       "name": "missav",
       "type": 3,
       "api": "csp_missav",
-      "homePage": "https://av.aws.dpdns.org/"
+      "homePage": "./missav.html"
     },
     {
       "key": "csp_Config",
