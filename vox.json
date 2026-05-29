@@ -43,13 +43,7 @@
         "filters": "./ext/douban.json"
       }
     },
-    {
-  "key": "Nostr",
-  "name": "Nostr推荐",
-  "type": 3,
-  "api": "csp_Nosr",
-  "homePage": "https://14932.kstore.space/demo.html"
-},
+   
      {
   "key": "ibvio",
   "name": "Libvio",
