@@ -47,7 +47,7 @@
   "key": "Nostr",
   "name": "Nostr推荐",
   "type": 3,
-  "api": "csp_Nostr",
+  "api": "csp_Nosr",
   "homePage": "https://14932.kstore.space/demo.html"
 },
      {
