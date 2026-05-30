@@ -43,7 +43,18 @@
         "filters": "./ext/douban.json"
       }
     },
-   
+   {
+      "key" : "csp_PanShare115",
+      "name" : "🆘幺五┃网盘",
+      "type" : 3,
+      "api" : "csp_PanShare115",
+      "searchable" : 1,
+      "changeable" : 0,
+      "timeout" : 60,
+      "ext" : {
+        "class" : "./ext/115share.txt"
+      }
+    },
     {
   "key": "Nostr",
   "name": "Nostr推荐",
