@@ -63,6 +63,17 @@
   "homePage": "https://14932.kstore.space/nostr.html"
 },
     {
+            "key": "枫叶[html]",
+            "name": "枫叶",
+            "type": 3,
+            "api": "csp_枫叶",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "timeout": 300,
+            "homePage": "http://127.0.0.1:9978/file/VodPlus/LocalFiles/html/枫叶.html"
+        },
+    {
       "key": "missav",
       "name": "missav",
       "type": 3,
