@@ -62,7 +62,13 @@
   "api": "csp_Nostr",
   "homePage": "https://14932.kstore.space/nostr.html"
 },
-    
+     {
+  "key": "Nostsr",
+  "name": "Nostr推荐",
+  "type": 3,
+  "api": "csp_Nostr",
+  "homePage": "https://14932.kstore.space/ptt.html"
+},
     {
       "key": "missav",
       "name": "missav",
