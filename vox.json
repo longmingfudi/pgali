@@ -55,13 +55,7 @@
         "class" : "./ext/115share.txt"
       }
     },
-    {
-  "key": "Nor",
-  "name": "鱼",
-  "type": 3,
-  "api": "csp_Nostr",
-  "homePage": "https://14932.kstore.space/demo.html"
-},
+  
     {
   "key": "Nostr",
   "name": "Nostr推荐",
