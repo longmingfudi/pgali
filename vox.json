@@ -63,6 +63,13 @@
   "api": "csp_Nostr",
   "homePage": "https://14932.kstore.space/nostr.html"
 },
+     {
+  "key": "test",
+  "name": "test",
+  "type": 3,
+  "api": "csp_Nostr",
+  "homePage": "https://14932.kstore.space/bug.html"
+},
     {
       "key": "missav",
       "name": "missav",
