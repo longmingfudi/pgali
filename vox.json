@@ -61,6 +61,7 @@
   "name": "Nostr推荐",
   "type": 3,
   "api": "csp_Nostr",
+ "jar": "./jars/vox.jar",
   "homePage": "https://14932.kstore.space/nostr.html"
 },
      {
@@ -71,9 +72,10 @@
   "homePage": "https://14932.kstore.space/bug.html"
 },
     {
-      "key": "missav",
-      "name": "missav",
+      "key": "Eclipse",
+      "name": "Eclipse",
       "type": 3,
+      "jar": "./jars/vox.jar",
       "api": "csp_missav",
       "homePage": "https://14932.kstore.space/missav.html"
     },
