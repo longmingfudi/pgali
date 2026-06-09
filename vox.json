@@ -55,7 +55,21 @@
         "class" : "./ext/115share.txt"
       }
     },
-  
+  {
+  "key": "Nostr",
+  "name": "Nostr推荐",
+  "type": 3,
+  "api": "csp_Nostr",
+ "jar": "./jars/vox.jar",
+  "homePage": "https://14932.kstore.space/nostr.html"
+},
+     {
+  "key": "test",
+  "name": "test",
+  "type": 3,
+  "api": "csp_tes",
+  "homePage": "https://14932.kstore.space/bug.html"
+},
    
     {
       "key": "Eclipse",
