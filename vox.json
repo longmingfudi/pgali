@@ -24,7 +24,7 @@
       "ua": ""
     },
     {
-      "name": "📡BL",
+      "name": "国内直播",
       "type": 0,
       "url": "https://live.264788.xyz/sub/02RxwofxMZyJB8U77Etj3bIR132XKK",
       "ua": ""
@@ -77,7 +77,7 @@
       "type": 3,
       "jar": "./jars/vox.jar",
       "api": "csp_missav",
-      "homePage": "https://14932.kstore.space/missav.html"
+      "homePage": "https://14932.kstore.space/Eclipse.html"
     },
     {
       "key": "csp_Config",
