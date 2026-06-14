@@ -71,11 +71,11 @@
   "homePage": "https://14932.kstore.space/nostr-embytv.html"
 },
     {
-      "key": "Eclipse",
-      "name": "Eclipse",
+      "key": "612",
+      "name": "612",
       "type": 3,
       "jar": "./jars/vox.jar",
-      "api": "csp_missav",
+      "api": "csp_msav",
       "homePage": "https://14932.kstore.space/612.html"
     },
     {
