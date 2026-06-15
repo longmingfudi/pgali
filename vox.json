@@ -71,13 +71,12 @@
   "homePage": "https://14932.kstore.space/nostr-embytv.html"
 },
     {
-      "key": "612",
-      "name": "612",
-      "type": 3,
-
-      "api": "csp_msav",
-      "homePage": "https://14932.kstore.space/612.html"
-    },
+  "key": "pomo",
+  "name": "Pomo 4K原盘",
+  "type": 3,
+  "api": "csp_Builtin",
+  "homePage": "https://pomo.mom/"
+},
     {
       "key": "Eclipse",
       "name": "Eclipse",
