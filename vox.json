@@ -71,8 +71,15 @@
   "homePage": "https://14932.kstore.space/nostr-embytv.html"
 },
     {
+  "key": "po",
+  "name": "po",
+  "type": 3,
+  "api": "csp_tes",
+  "homePage": "https://14932.kstore.space/pomo.html"
+},
+    {
   "key": "888",
-  "name": "gy88",
+  "name": "不太灵",
   "type": 3,
   "api": "csp_Btin",
   "homePage": "https://14932.kstore.space/612.html"
