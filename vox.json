@@ -68,11 +68,11 @@
   "name": "test",
   "type": 3,
   "api": "csp_tes",
-  "homePage": "https://14932.kstore.space/nostr-embytv.html"
+  "homePage": "https://14932.kstore.space/emby.html"
 },
     {
   "key": "po",
-  "name": "po",
+  "name": "pomo",
   "type": 3,
   "api": "csp_tes",
   "homePage": "https://14932.kstore.space/pomo.html"
