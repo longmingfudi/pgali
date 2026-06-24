@@ -43,6 +43,7 @@
         "filters": "./ext/douban.json"
       }
     },
+    {"key":"csp_MakkaPakka","name":"😊风向┃[导航]","type":3,"api":"csp_MakkaPakka","searchable":0,"indexs":1,"changeable":0},
    {
       "key" : "csp_PanShare115",
       "name" : "🆘幺五┃网盘",
