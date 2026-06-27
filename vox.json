@@ -43,10 +43,24 @@
         "filters": "./ext/douban.json"
       }
     },
-    {"key":"csp_MakkaPakka","name":"😊风向┃[导航]","type":3,"api":"csp_MakkaPakka","searchable":0,"indexs":1,"changeable":0},
+    {
+      "key": "小白弹幕",
+      "name": "弹幕",
+      "type": 3,
+      "searchable": 0,
+      "filterable": 0,
+      "api": "csp_SecureDanmu",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/goodcommunication/mydm/main/danmu-spider-native.jar",
+      "index": 1,
+      "ext": {
+        "apiUrls": [
+          "https://dm.920410.xyz"
+        ]
+      }
+    },
    {
       "key" : "csp_PanShare115",
-      "name" : "🆘幺五┃网盘",
+      "name" : "115┃网盘",
       "type" : 3,
       "api" : "csp_PanShare115",
       "searchable" : 1,
