@@ -72,7 +72,7 @@
     },
   {
   "key": "Nostr",
-  "name": "Nostr推荐",
+  "name": "Nostr",
   "type": 3,
   "api": "csp_Nostr",
  "jar": "./jars/vox.jar",
@@ -80,7 +80,7 @@
 },
      {
   "key": "test",
-  "name": "test",
+  "name": "emby",
   "type": 3,
   "api": "csp_tes",
   "homePage": "https://14932.kstore.space/emby.html"
@@ -92,9 +92,17 @@
   "api": "csp_tes",
   "homePage": "https://14932.kstore.space/pomo.html"
 },
+    
+    {
+  "key": "ces",
+  "name": "奈飞",
+  "type": 3,
+  "api": "csp_nf",
+  "homePage": "https://14932.kstore.space/nf.html"
+},
     {
   "key": "888",
-  "name": "不太灵",
+  "name": "玩偶",
   "type": 3,
   "api": "csp_Btin",
   "homePage": "https://14932.kstore.space/wogg.html"
