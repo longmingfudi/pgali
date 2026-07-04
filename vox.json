@@ -157,7 +157,7 @@
         "channel": "kfcfoodcourt,leoziyuan,movielover8888_film3,seedhub_pro,Quark_Movies,QuarkFree,xx123pan,zyzhpd123,yingshifenxiang123,yp123pan,yppan,wp123zy,cloudtianyi,yunpan189,tyysypzypd,txtyzy,jzmm_123pan,kuakeclound,tyypzhpd,bsbdbfjfjff,bdwpzhpd,gotopan,ydypzyfx,yunpan139,XiangxiuNBB,peccxinpd,SharePanFilms,vip115hot,q66share,yggpan,WFYSFX02,mcph860,mcph608,taoxgzy,yunpanx,oneonefivewpfx,ucwpzy,ucquark,aliyunys,yunpanuc,ucshare,ucwangpan,guoman4k,panjclub,baicaozy,wpzybns02,Aliyun_4K_Movies,yunpanxunlei,tianyifc,bdyunpan,baicaoZY,MCPH01,MCPH02,MCPH03,MCPH04,MCPH086,Q66Share,shareAliyun,Channel_Shares_115,yoyokuakeduanju,TG654TG,WFYSFX01,QukanMovie,yeqingjie_GJG666,Baidu_netdisk,D_wusun,FLMdongtianfudi,newproductsourcing,yunpanNB,jxwpzy,kuakedongman,xiangnikanj,solidsexydoll,zdqxm,kduanju,cilidianying,CBduanju,Oscar_4Kmovies,Netdisk_Movies,yunpanquark,ciliziyuanku,dianying4k,q_dianshiju,godupan,gokuapan,gimy115,WFYSFX03,peccxin,Movie888035,gimy100,gimy115iso,XunLeiPinDao,a123fxme,WPpindao,kuyupan,djya5,pan_guangya"
       }
     },
-    {"key":"123社区","name":"🥉社区┃[网盘]","type":3,"timeout":60,"searchable":1,"playerType":2,"quickSearch":1,"filterable":1,
+    {"key":"123社区","name":"🥉社区┃网盘","type":3,"timeout":60,"searchable":1,"playerType":2,"quickSearch":1,"filterable":1,
       "api":"csp_Pan123Fx","ext":{"cookie":"","filters":"./json/pan123fx.json","comment":""}},
 {"key":"csp_Gyzzs","name":"🦆鸭社┃网盘","type":3,"searchable":1,"playerType":2,
   "quickSearch":1,"filterable":1,"timeout":60,"api":"csp_Qsxy",
