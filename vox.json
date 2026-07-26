@@ -239,7 +239,7 @@
       "timeout": 60,
       "ext": {
         "filters": "./ext/xxzn.json",
-        "sites": "https://4kzn.com"
+        "sites": "https://4kzn.cc"
       }
     },
     {
@@ -282,7 +282,7 @@
       "changeable": 1,
       "timeout": 60,
       "ext": {
-        "sites": "http://xiaocgege.shop",
+        "sites": "http://feimo.fun",
         "filters": "./ext/wogg2.json",
         "proxy": "noproxy"
       }
@@ -342,7 +342,7 @@
       "changeable": 1,
       "timeout": 60,
       "ext": {
-        "sites": "https://zhizhen1.top",
+        "sites": "https://www.miqk.cc",
         "filters": "./ext/wogg2.json",
         "proxy": "noproxy"
       }
