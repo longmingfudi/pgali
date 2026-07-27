@@ -6,18 +6,6 @@
  "wallpaper": "https://blur.zntv.dpdns.org",
   "lives": [
     {
-      "name": "📡虎牙",
-      "type": 0,
-      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
-      "ua": ""
-    },
-    {
-      "name": "📡斗鱼",
-      "type": 0,
-      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
-      "ua": ""
-    },
-    {
       "name": "肥羊直播",
       "type": 0,
       "url": "https://live.ottiptv.cc/iptv.m3u?userid=7146702341&sign=8650932202c606f211f5829ec11e871e01e25709926421e8bc980602d145a343c8cdeca38c686131d6abe5326251e83474c38e61dd195c4354f3af64fd3e968d29eaf9512e50ac&auth_token=772fd71455b48935cdc2afcdb839885e",
@@ -32,6 +20,18 @@
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "📡虎牙",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+      "ua": ""
+    },
+    {
+      "name": "📡斗鱼",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+      "ua": ""
     },
     {
       "name": "国内直播",
