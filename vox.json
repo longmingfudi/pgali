@@ -18,10 +18,20 @@
       "ua": ""
     },
     {
-      "name": "📡YY",
+      "name": "肥羊直播",
       "type": 0,
-      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
-      "ua": ""
+      "url": "https://live.ottiptv.cc/iptv.m3u?userid=7146702341&sign=8650932202c606f211f5829ec11e871e01e25709926421e8bc980602d145a343c8cdeca38c686131d6abe5326251e83474c38e61dd195c4354f3af64fd3e968d29eaf9512e50ac&auth_token=772fd71455b48935cdc2afcdb839885e",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "IPTV",
+      "type": 0,
+      "url": "https://live.264788.xyz/sub/02RxwofxMZyJB8U77Etj3bIR132XKK",
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "国内直播",
