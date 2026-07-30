@@ -53,21 +53,7 @@
         "filters": "./ext/douban.json"
       }
     },
-    {
-      "key": "小白弹幕",
-      "name": "弹幕",
-      "type": 3,
-      "searchable": 0,
-      "filterable": 0,
-      "api": "csp_SecureDanmu",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/goodcommunication/mydm/main/danmu-spider-native.jar",
-      "index": 1,
-      "ext": {
-        "apiUrls": [
-          "https://dm.920410.xyz"
-        ]
-      }
-    },
+      
    {
       "key" : "csp_PanShare115",
       "name" : "115┃网盘",
@@ -79,51 +65,6 @@
       "ext" : {
         "class" : "./ext/115share.txt"
       }
-    },
-  {
-  "key": "Nostr",
-  "name": "Nostr",
-  "type": 3,
-  "api": "csp_Nostr",
- "jar": "./jars/vox.jar",
-  "homePage": "https://14932.kstore.space/nostr-emby.html"
-},
-     {
-  "key": "test",
-  "name": "emby",
-  "type": 3,
-  "api": "csp_tes",
-  "homePage": "https://14932.kstore.space/emby.html"
-},
-    {
-  "key": "po",
-  "name": "pomo",
-  "type": 3,
-  "api": "csp_tes",
-  "homePage": "https://14932.kstore.space/pomo.html"
-},
-    
-    {
-  "key": "ces",
-  "name": "奈飞",
-  "type": 3,
-  "api": "csp_nf",
-  "homePage": "https://14932.kstore.space/nf.html"
-},
-    {
-  "key": "888",
-  "name": "玩偶",
-  "type": 3,
-  "api": "csp_Btin",
-  "homePage": "https://14932.kstore.space/wogg.html"
-},
-    {
-      "key": "Eclipse",
-      "name": "Eclipse",
-      "type": 3,
-      "jar": "./jars/vox.jar",
-      "api": "csp_missav",
-      "homePage": "https://14932.kstore.space/Eclipse.html"
     },
     {
       "key": "csp_Config",
