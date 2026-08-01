@@ -1,5 +1,5 @@
 {
-  "name":"TFEL图标", "description":"透明PNG图标，Forward五折码：1717.5，如需更新请Tg联系：@FridayET_bot", 
+  "name":"TFEL图标", "description":"透明PNG图标", 
   "icons":[    
     {"name":"T", "url":"https://emby-icon.vercel.app/icons/T.PNG"},
     {"name":"F", "url":"https://emby-icon.vercel.app/icons/F.PNG"},
