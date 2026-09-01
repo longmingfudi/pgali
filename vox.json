@@ -298,6 +298,8 @@
         "proxy": "noproxy"
       }
     },
+    {"key":"csp_Zmi","name":"🐌蜗牛┃[网盘]","type":3,"api":"csp_Zmi","searchable":1,"changeable":1,"timeout":60,"ext":{"cookie":"","filters":"","sites":"https://www.wn4k.com"}},
+    {"key":"csp_JuTouShe","name":"😳剧透┃[网盘]","type":3,"timeout":60,"api":"csp_JuTouShe","searchable":1,"changeable":0},
     {
       "key": "多多网盘",
       "name": "😘多多┃网盘",
@@ -372,7 +374,7 @@
        "api" : "./js/drpy2.min.js",
       "ext" : "./js/电影港.js"
     },
-    
+    {"key":"csp_HongGuo","name":"🍎果子┃[短剧]","type":3,"api":"csp_HongGuo","searchable":1,"changeable":0},
    {
       "key" : "csp_Bili",
       "name" : "🅱️哔哩┃合集",
