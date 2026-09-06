@@ -53,7 +53,13 @@
         "filters": "./ext/douban.json"
       }
     },
-      
+      {
+      "key": "po",
+      "name": "tmdb",
+      "type": 3,
+      "api": "csp_tes",
+      "homePage": "https://14932.kstore.space/tmdb.html"
+    },
    {
       "key" : "csp_PanShare115",
       "name" : "115┃网盘",
